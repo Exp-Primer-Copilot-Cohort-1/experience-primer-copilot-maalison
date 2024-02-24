@@ -18,6 +18,13 @@ app.listen(port, function(){
     console.log('Server is running on port: ' + port);
 });
 
+//To run the server, use the following command:
+//cannot find module express
+
+//it's running from a github instance instead of localhost
+
+
+
 // To test the server, open the browser and type localhost:3000. 
 // You will see the message "Welcome to the web server" on the screen.
 
